@@ -1,5 +1,4 @@
 
-Tutorial url: https://youtu.be/PgHIVt_S6PE 
 
 SonarQube docker build. (See docker-compose.yml)
 
